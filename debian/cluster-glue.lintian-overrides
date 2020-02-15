@@ -1,0 +1,3 @@
+cluster-glue: package-contains-documentation-outside-usr-share-doc usr/share/cluster-glue/lrmtest/README.regression
+cluster-glue: spelling-error-in-binary usr/lib/heartbeat/lrmd EVERYTIME EVERY TIME
+cluster-glue: spelling-error-in-binary usr/sbin/lrmadmin EVERYTIME EVERY TIME
